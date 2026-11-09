@@ -1,0 +1,23 @@
+# はてなブログの RSS から最新記事を取得し、README の BLOG-POST-LIST 区間を書き換える
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6 時間ごと（UTC）
+  workflow_dispatch:         # Actions タブから手動実行
+
+permissions:
+  contents: write            # README をコミットするため
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://madoromi-game.hatenablog.com/rss"
+          max_post_count: "3"
+          date_format: "yyyy/mm/dd"
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          commit_message: "Update latest blog posts"

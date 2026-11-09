@@ -26,6 +26,7 @@
 - 大切にしているのは **「影響範囲・修正の入口・設計意図を言葉で説明できる設計」**
 - チーム開発では、コメント文化づくり・ペアコーディング・エディタ拡張ツールで **チーム全体の手間を減らす** ことに取り組んできました
 - 🏆 ハッカソン「カワゴエソン」で **りそなコエドテラス賞 / DENPAL賞** を受賞
+- ✍ 週2で続けている技術ブログ：[madoromi-game.hatenablog.com](https://madoromi-game.hatenablog.com/)
 
 ## 🛠 Tech Stack
 
@@ -48,6 +49,15 @@
 | [**BleakCage**](https://github.com/madoromi05/BleakCage) | ターン制カード RPG | Unity / DOTween | コマンドパターン＋OCP でカード効果を拡張しやすく。CSV → ScriptableObject のエディタ拡張 |
 | **フリップダッシュ** | マルチプレイ 2D アクション | C++ / DxLib / .NET | 自作サーバーでリアルタイム同期。スナップショット差分で通信量を削減 |
 
+## ✍ Latest Blog Posts
+
+<!-- 下の START〜END の間は GitHub Actions（blog-post-workflow.yml）が自動で書き換える -->
+<!-- BLOG-POST-LIST:START -->
+- [はてなブログ](https://madoromi-game.hatenablog.com/) の記事を取得中…
+<!-- BLOG-POST-LIST:END -->
+
+➡ [もっと読む](https://madoromi-game.hatenablog.com/)
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -57,6 +67,15 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=madoromi05&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<!-- 画像は GitHub Actions（snake.yml）が output ブランチに毎日生成する -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madoromi05/madoromi05/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madoromi05/madoromi05/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/madoromi05/madoromi05/output/github-snake.svg" />
+  </picture>
 </p>
 
 <!-- ===== Footer ===== -->
