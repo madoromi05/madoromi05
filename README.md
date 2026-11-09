@@ -11,15 +11,11 @@
   </a>
   <br />
   ✍ 週2で続けている技術ブログ：
+  <br />
   <a href="https://madoromi-game.hatenablog.com/">
     <img src="https://img.shields.io/badge/Blog-%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%AD%E3%82%B0-7c3aed?style=for-the-badge&logo=rss&logoColor=white" alt="Hatena Blog" />
   </a>
 </p>
-
-## 🎮 About Me
-
-- ゲームプログラマーを目指している学生
-- ✍ 週2で続けている技術ブログ：[madoromi-game.hatenablog.com](https://madoromi-game.hatenablog.com/)
 
 ## 🛠 Tech Stack
 
