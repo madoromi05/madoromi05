@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:7c3aed&height=180&section=header&text=madoromi05&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Programmer%20%7C%20Unity%20%2F%20C%2B%2B&descAlignY=60&descSize=16" alt="header" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/madoromi05">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99;Design+you+can+explain+in+words.;Unity+%2F+C%23+%2F+C%2B%2B+%2F+DxLib" alt="typing" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
@@ -69,15 +63,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=madoromi05&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<!-- 画像は GitHub Actions（snake.yml）が output ブランチに毎日生成する -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madoromi05/madoromi05/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madoromi05/madoromi05/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/madoromi05/madoromi05/output/github-snake.svg" />
-  </picture>
 </p>
 
 <!-- ===== Footer ===== -->
