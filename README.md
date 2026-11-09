@@ -52,7 +52,8 @@
 ## ✍ Latest Blog Posts
 
 <!-- 下の START〜END の間は GitHub Actions（blog-post-workflow.yml）が自動で書き換える -->
-<!-- BLOG-POST-LIST:START -->- [【ゲーム制作C++】機械的で単純なスマートポインタの使い分け「所有 × 寿命」](https://madoromi-game.hatenablog.com/entry/2026/11/09/141447) <sub>2026/11/09</sub>
+<!-- BLOG-POST-LIST:START -->
+- [【ゲーム制作C++】機械的で単純なスマートポインタの使い分け「所有 × 寿命」](https://madoromi-game.hatenablog.com/entry/2026/11/09/141447) <sub>2026/11/09</sub>
 - [ゲーム制作最適化　LUT（ルックアップテーブル）～ゲームの色をこれで決めろ～](https://madoromi-game.hatenablog.com/entry/2026/11/05/165559) <sub>2026/11/05</sub>
 - [ゲーム最適化　色んなカリング比較](https://madoromi-game.hatenablog.com/entry/2026/11/04/140028) <sub>2026/11/04</sub>
 <!-- BLOG-POST-LIST:END -->

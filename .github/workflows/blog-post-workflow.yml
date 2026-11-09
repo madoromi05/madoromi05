@@ -19,5 +19,5 @@ jobs:
           feed_list: "https://madoromi-game.hatenablog.com/rss"
           max_post_count: "3"
           date_format: "yyyy/mm/dd"
-          template: "- [$title]($url) <sub>$date</sub>$newline"
+          template: "$newline- [$title]($url) <sub>$date</sub>"   # 先頭で改行し、START コメントと同じ行に載らないようにする
           commit_message: "Update latest blog posts"
