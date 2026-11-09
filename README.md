@@ -9,6 +9,8 @@
   <a href="https://x.com/madoromi_81">
     <img src="https://img.shields.io/badge/X-@madoromi__81-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
+  <br />
+  ✍ 週2で続けている技術ブログ：
   <a href="https://madoromi-game.hatenablog.com/">
     <img src="https://img.shields.io/badge/Blog-%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%AD%E3%82%B0-7c3aed?style=for-the-badge&logo=rss&logoColor=white" alt="Hatena Blog" />
   </a>
@@ -16,10 +18,7 @@
 
 ## 🎮 About Me
 
-- ゲームプログラマーを目指している学生です
-- 大切にしているのは **「影響範囲・修正の入口・設計意図を言葉で説明できる設計」**
-- チーム開発では、コメント文化づくり・ペアコーディング・エディタ拡張ツールで **チーム全体の手間を減らす** ことに取り組んできました
-- 🏆 ハッカソン「カワゴエソン」で **りそなコエドテラス賞 / DENPAL賞** を受賞
+- ゲームプログラマーを目指している学生
 - ✍ 週2で続けている技術ブログ：[madoromi-game.hatenablog.com](https://madoromi-game.hatenablog.com/)
 
 ## 🛠 Tech Stack
