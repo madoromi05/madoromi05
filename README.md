@@ -11,6 +11,15 @@
 
 ---
 
+<p align="center">
+  <a href="https://x.com/madoromi_81">
+    <img src="https://img.shields.io/badge/X-@madoromi__81-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://madoromi-game.hatenablog.com/">
+    <img src="https://img.shields.io/badge/Blog-%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%AD%E3%82%B0-7c3aed?style=for-the-badge&logo=rss&logoColor=white" alt="Hatena Blog" />
+  </a>
+</p>
+
 ## 🎮 About Me
 
 - ゲームプログラマーを目指している学生です
