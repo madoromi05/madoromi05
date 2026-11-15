@@ -36,7 +36,7 @@
 | --- | --- | --- | --- |
 | [**遺族写真**](https://github.com/madoromi05/2026_HorrorGame_BereavedPhoto) 🚧 | 一人称ホラー | Unity | Prim 法の最小全域木で接続を保証し、A* で通路を足すランダムマップ生成 |
 | [**BleakCage**](https://github.com/madoromi05/BleakCage) | ターン制カード RPG | Unity / DOTween | コマンドパターン＋OCP でカード効果を拡張しやすく。CSV → ScriptableObject のエディタ拡張 |
-| **フリップダッシュ** | マルチプレイ 2D アクション | C++ / DxLib / .NET | 自作サーバーでリアルタイム同期。スナップショット差分で通信量を削減 |
+| [**フリップダッシュ**](https://github.com/madoromi05/2026_Dxlib_FlipDash) | マルチプレイ 2D アクション | C++ / DxLib / .NET | 自作サーバーでリアルタイム同期。スナップショット差分で通信量を削減 |
 
 ## ✍ Latest Blog Posts
 
