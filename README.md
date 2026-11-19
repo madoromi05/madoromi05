@@ -9,6 +9,7 @@
   <a href="https://madoromi05.github.io/GamePortfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Game%20Works-1e1b4b?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
+  <br />
   <a href="https://x.com/madoromi_81">
     <img src="https://img.shields.io/badge/X-@madoromi__81-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
