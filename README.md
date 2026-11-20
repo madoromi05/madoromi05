@@ -46,9 +46,9 @@
 
 <!-- 下の START〜END の間は GitHub Actions（blog-post-workflow.yml）が自動で書き換える -->
 <!-- BLOG-POST-LIST:START -->
+- [【ゲーム制作　C++】uniform initialization（統一初期化）楽だと思ったら地獄だった](https://madoromi-game.hatenablog.com/entry/2026/11/20/110518) <sub>2026/11/20</sub>
 - [【ゲーム制作　C++】namespace { }（無名名前空間）を使う意味](https://madoromi-game.hatenablog.com/entry/2026/11/16/101527) <sub>2026/11/16</sub>
-- [【ゲーム制作C++】指しているオブジェクトが消えても落ちない、ポインタの持ち方](https://madoromi-game.hatenablog.com/entry/2026/11/13/092854) <sub>2026/11/13</sub>
-- [【ゲーム制作C++】機械的で単純なスマートポインタの使い分け「所有 × 寿命」](https://madoromi-game.hatenablog.com/entry/2026/11/09/141447) <sub>2026/11/09</sub><!-- BLOG-POST-LIST:END -->
+- [【ゲーム制作C++】指しているオブジェクトが消えても落ちない、ポインタの持ち方](https://madoromi-game.hatenablog.com/entry/2026/11/13/092854) <sub>2026/11/13</sub><!-- BLOG-POST-LIST:END -->
 
 ➡ [もっと読む](https://madoromi-game.hatenablog.com/)
 
