@@ -31,8 +31,7 @@
 | --- | --- |
 | Engine / Library | Unity, DOTween, DxLib |
 | Language | C#, C++ |
-| Server | C# (.NET) によるリアルタイム同期サーバー |
-| Tools | Git, SourceTree |
+| Tools | Git, SourceTree, notion, RenderDoc |
 
 ## 🕹 Works
 
